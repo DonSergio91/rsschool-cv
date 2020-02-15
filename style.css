@@ -1,5 +1,38 @@
-.test{
-    color: bisque;
-    font-size: 30px;
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+header{
     background-color: black;
+    height: 150px;
+    width: 100%;
+}
+
+
+h1 {
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    color: aquamarine;
+    font-size: 24px;
+    padding: 10px;
+}
+header h2 {
+    color: goldenrod;
+    display: block;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 20px;
+}
+img{
+    padding: 25px;
+    float: left;
+    width: 100px;
+    height: auto;
+    align-self: left;
 }
