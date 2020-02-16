@@ -18,9 +18,10 @@ h1 {
     display: block;
     text-transform: uppercase;
     text-align: center;
-    color: aquamarine;
+    color: antiquewhite;
     font-size: 24px;
     padding: 10px;
+    
 }
 header h2 {
     color: goldenrod;
@@ -28,6 +29,7 @@ header h2 {
     text-transform: capitalize;
     text-align: center;
     padding: 20px;
+   
 }
 img{
     padding: 25px;
@@ -35,4 +37,38 @@ img{
     width: 100px;
     height: auto;
     align-self: left;
+}
+section{
+    width: auto;
+    background-color: gray;
+    padding: 10px;
+    
+}
+h2{
+    padding: 10px;
+    text-align: center;
+  
+    color: antiquewhite;
+}
+p, li {
+    font-weight: 900;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+li {
+    list-style-type: none; 
+   }
+footer{
+    width: auto;
+    height: 100px;
+    background-color: black;
+    color: antiquewhite;
+}
+footer h3{
+    color: goldenrod;
+    display: block;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 30px;
 }
