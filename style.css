@@ -13,22 +13,23 @@ header{
     width: 100%;
 }
 
-
 h1 {
+    text-align: center;
+    margin-right: 150px;
     display: block;
     text-transform: uppercase;
-    text-align: center;
     color: antiquewhite;
     font-size: 24px;
     padding: 10px;
-    
 }
+
 header h2 {
     color: goldenrod;
     display: block;
     text-transform: capitalize;
     text-align: center;
-    padding: 20px;
+    margin-right: 150px;
+    margin-bottom: 20px;
    
 }
 img{
