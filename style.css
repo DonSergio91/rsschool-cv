@@ -43,7 +43,10 @@ section{
     width: auto;
     background-color: gray;
     padding: 10px;
-    
+}
+
+pre {
+    text-align: center;
 }
 h2{
     padding: 10px;
